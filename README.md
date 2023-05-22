@@ -16,7 +16,7 @@ Hi, my name is Macallan and I'm 23. I started software development 3 year ago wi
     <a href="https://discord.com/users/835405542985433118" target="_blank"><img src="https://shields.io/badge/Macallan-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/TheMacDeveloper" target="_blank"><img src="https://shields.io/badge/Macallan-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~TheMacDeveloper" target="_blank"><img src="https://shields.io/badge/Macallan-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.gg/botstory" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
     </div>
 
 ## 💻 Technologies I Use
