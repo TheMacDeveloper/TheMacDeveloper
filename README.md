@@ -3,7 +3,7 @@
 Hi, my name is Macallan and I'm 16. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=cryxjsd&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?username=TheMacDeveloper&color=dc143c"/>
 </div>
 
 <div align="center">
