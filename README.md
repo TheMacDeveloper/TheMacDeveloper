@@ -32,8 +32,4 @@ Hi, my name is Macallan and I'm 23. I started software development 3 year ago wi
 
 ## 📈 Github Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheMacDeveloper&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMacDeveloper&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
+<img width="50%" src="https://count.getloli.com/get/@:TheMacDeveloper?theme=rule34">
