@@ -30,7 +30,10 @@ Hi, my name is Macallan and I'm 23. I started software development 3 year ago wi
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
 
-## 📈 Github Stats
+</br>
+
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
+<h2 align="center">
 
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:TheMacDeveloper?theme=rule34">
