@@ -32,4 +32,6 @@ Hi, my name is Macallan and I'm 23. I started software development 3 year ago wi
 
 ## 📈 Github Stats
 
+<h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:TheMacDeveloper?theme=rule34">
+<br> </br>
