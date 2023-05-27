@@ -1,7 +1,10 @@
 # ✨ Hi, I am Macallan
 
 Hi, my name is Macallan and I'm 23. I started software development 3 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
-
+  <p align=center>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=TheMacDeveloper&data=followers,repositories,stars,commits&theme=darkmode" alt="">
+  </p>
+</a>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=TheMacDeveloper&color=dc143c"/>
 </div>
