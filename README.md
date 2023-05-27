@@ -11,7 +11,7 @@ Hi, my name is Macallan and I'm 23. I started software development 3 year ago wi
 
 <h2 align="center">
 
-<div align="center">
+
 
     <img src="https://komarev.com/ghpvc/?username=TheMacDeveloper&color=dc143c"/>
 </div>
