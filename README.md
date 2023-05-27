@@ -8,7 +8,7 @@ Hi, my name is Macallan and I'm 23. I started software development 3 year ago wi
     <img src="https://github-widgetbox.vercel.app/api/profile?username=TheMacDeveloper&data=followers,repositories,stars,commits&theme=darkmode" alt="">
   </p>
 </a>
-
+<h2 align="center">
 <img src="https://komarev.com/ghpvc/?username=TheMacDeveloper&color=dc143c"/>
 </div>
 
