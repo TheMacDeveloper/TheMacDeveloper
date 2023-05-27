@@ -9,11 +9,7 @@ Hi, my name is Macallan and I'm 23. I started software development 3 year ago wi
   </p>
 </a>
 
-<h2 align="center">
-
-
-
-    <img src="https://komarev.com/ghpvc/?username=TheMacDeveloper&color=dc143c"/>
+<img src="https://komarev.com/ghpvc/?username=TheMacDeveloper&color=dc143c"/>
 </div>
 
 <div align="center">
